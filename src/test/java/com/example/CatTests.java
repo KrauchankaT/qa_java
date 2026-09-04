@@ -1,5 +1,5 @@
-import com.example.Cat;
-import com.example.Feline;
+package com.example;
+
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
